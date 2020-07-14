@@ -9,3 +9,9 @@
 /SemanticVersioning/SemanticVersioning/bin/Debug/netcoreapp3.1/Properties
 /SemanticVersioning/SemanticVersioning/bin/Debug/netcoreapp3.1
 /SemanticVersioning/SemanticVersioning/obj
+/SemanticVersioning/SemanticVersioningMinor/bin/Debug/netcoreapp3.1
+/SemanticVersioning/SemanticVersioningMinor/obj
+/SemanticVersioning/SemanticVersioningMinor/SemanticVersioning.csproj.user
+/SemanticVersioning/SemanticVersioningPatch/bin/Debug/netcoreapp3.1
+/SemanticVersioning/SemanticVersioningPatch/obj
+*.user
