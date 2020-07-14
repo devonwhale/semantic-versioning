@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SemanticVersioning/.vs/SemanticVersioning/config
+/SemanticVersioning/.vs/SemanticVersioning/DesignTimeBuild
+/SemanticVersioning/.vs/SemanticVersioning/v16/Server/sqlite3
+/SemanticVersioning/.vs/SemanticVersioning/v16
+/SemanticVersioning/SemanticVersioning/bin/Debug/netcoreapp3.1/Properties
+/SemanticVersioning/SemanticVersioning/bin/Debug/netcoreapp3.1
+/SemanticVersioning/SemanticVersioning/obj
